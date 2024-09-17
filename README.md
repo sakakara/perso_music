@@ -11,4 +11,5 @@ It will let you chose a scale from "A" to "F" and will return the scale with the
 
 ### exemple :
 
-If you choose the C scale (do), you will get this : `#RRGGBB` ***C,D,E,F,G,A,B (do,ré,mi,fa,sol,la,si)***
+If you choose the C scale (do), you will get this : `#RRGGBB` ***C,D,E,F,G,A,B (do,ré,mi,fa,sol,la,si)*** and the perfect chore will be ***C,E,G (do,mi,sol)***
+
